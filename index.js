@@ -1,8 +1,6 @@
-var recipes = new Object({
+var recipes = {
   sugar: '1 cup',
-  eggs: '3',
-  flour: '3 cups'
-});
+};
 
 function updateObjectWithKeyAndValue(object, key, value) {
   object.key = 'value';
