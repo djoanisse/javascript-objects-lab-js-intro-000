@@ -1,5 +1,5 @@
 var recipes = {
-  sugar: '1 cup',
+  sugar: '1 cup'
 };
 
 function updateObjectWithKeyAndValue(object, key, value) {
